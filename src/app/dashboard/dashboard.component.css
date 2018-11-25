@@ -1,0 +1,17 @@
+.spinner {
+    position: relative;
+    margin: auto;
+    top: 45%;
+}
+
+table {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}

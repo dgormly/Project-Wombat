@@ -16,3 +16,11 @@
   top: 0;
   z-index: 1000;
 }
+
+.dashboard {
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 68px;
+  bottom: 0;
+}
